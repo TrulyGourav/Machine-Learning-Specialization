@@ -1,3 +1,7 @@
+# Practice Quizzes (Graded/Non-Graded)
+
+Below are the quizzes for the week 1.
+
 ## Supervised vs unsupervised learning
 
 ![1.1](images/1.1.png)
