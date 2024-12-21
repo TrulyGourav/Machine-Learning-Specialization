@@ -1,0 +1,1 @@
+This repo contains all the learning resources for Machine Learning Specialization offered by Coursera and Stanford. The specialization is instructed by Anrew NG.
