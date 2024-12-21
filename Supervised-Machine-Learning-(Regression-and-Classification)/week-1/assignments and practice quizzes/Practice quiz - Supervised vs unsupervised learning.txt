@@ -1,0 +1,9 @@
+Which are the two common types of supervised learning? (Choose two)
+
+- Classification
+- Regression
+
+
+Which of these is a type of unsupervised learning?
+
+- Clustering
