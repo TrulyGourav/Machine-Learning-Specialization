@@ -6,6 +6,8 @@ Below are the pratice quizzes for the week 2.
 
 ![1.1](images/1.1.png)
 
+![1.2](images/1.2.png)
+
 
 ## Gradient descent in practice
 
