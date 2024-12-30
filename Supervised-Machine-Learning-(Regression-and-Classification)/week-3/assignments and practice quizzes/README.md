@@ -27,3 +27,8 @@ Below are the pratice quizzes for the week 3.
 
 ## The problem of over-fitting
 
+![4.1](images/4.1.png)
+
+![4.2](images/4.2.png)
+
+![4.3](images/4.3.png)
